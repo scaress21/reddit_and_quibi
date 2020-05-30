@@ -1,5 +1,7 @@
 # Quibi Advertising Recommendations with Web API and Scraping
 
+#### Overview: [Gathering Reddit Data](https://github.com/scaress21/reddit_and_quibi/blob/master/code/01A_Gathering_Reddit_Data.ipynb) | [Gathering Quibi Data](https://github.com/scaress21/reddit_and_quibi/blob/master/code/01B_Gathering_Quibi_Data.ipynb) | [Cleaning](https://github.com/scaress21/reddit_and_quibi/blob/master/code/02_Cleaning.ipynb) | [EDA](https://github.com/scaress21/reddit_and_quibi/blob/master/code/03_EDA.ipynb) | [Modeling](https://github.com/scaress21/reddit_and_quibi/blob/master/code/04_Modeling.ipynb) | [Comparing Reddit & Quibi](https://github.com/scaress21/reddit_and_quibi/blob/master/code/05_Comparison%20w%20Quibi%20Data.ipynb)
+
 Quibi is a new mobile-only streaming platform that launched April 2020. All of the shows are serial and have episodes under 10 minutes. They have lots of big names doing shows such as Chrissy Tiegen and Sophie Turner. Quibi stands for "quick bites" as the content is meant to be consumed during "in between" times of your day. Since the platform is brand new, I want to analyze how well their content compares to that of other popular media (**videos, television, and podcasts**) and eventually make recommendations for advertising the individual shows in other media.
 
 - [Videos](https://www.reddit.com/r/videos/): The length of the content is most similar to videos found on services like YouTube and Vimeo.
